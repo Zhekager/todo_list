@@ -1,0 +1,13 @@
+.DeleteIcons {
+  width: 40px;
+  height: 40px;
+  fill: rgb(105, 105, 105);
+  &:hover {
+    fill: #ee0000;
+  }
+}
+
+.Button__ico {
+  border: none;
+  background-color: white;
+}

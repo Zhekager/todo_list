@@ -93,5 +93,8 @@ npm install modern-normalize
 [prop-types](https://www.npmjs.com/package/prop-types)
 [gh-pages](https://www.npmjs.com/package/gh-pages)
 [modern-normalize](https://github.com/sindresorhus/modern-normalize)
+[node-sass](https://www.npmjs.com/package/node-sass)
+[shortid](https://www.npmjs.com/package/shortid)
+[classnames](https://www.npmjs.com/package/classnames)
 
 ---
