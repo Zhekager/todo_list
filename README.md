@@ -47,6 +47,15 @@ npm install --save prop-types
 }
 ```
 
+добавить в корень проекта `.lintstagedrc`
+
+```bash
+{
+  "src/**/*.{json,css,scss,md}": ["prettier --write"],
+  "src/**/*.{js,jsx,ts,tsx}": ["prettier --write", "eslint --fix"]
+}
+```
+
 В файле `package.json` добавить
 
 ```bash
@@ -74,14 +83,14 @@ npm install gh-pages --save-dev
 npm install modern-normalize
 ```
 
-добавить поддержку формата в файл `package.json` - `lint-staged`
+<!-- добавить поддержку формата в файл `package.json` - `lint-staged`
 
 ```bash
 "lint-staged": {
     "*.{js,jsx}": "eslint --cache --fix",
     "*.{js,jsx,scss,css,md}": "prettier --write"
   }
-```
+``` -->
 
 #### дополнительные пакеты
 
