@@ -85,26 +85,16 @@ npm install modern-normalize
 
 #### дополнительные пакеты
 
-[axios](https://www.npmjs.com/package/axios)
-
-[react-loader-spinner](https://www.npmjs.com/package/react-loader-spinner)
-
-[react-toastify](https://www.npmjs.com/package/react-toastify)
-
-[react-scroll](https://www.npmjs.com/package/react-scroll)
-
-[react-icons](https://react-icons.github.io/react-icons)
-
-[prop-types](https://www.npmjs.com/package/prop-types)
-
-[gh-pages](https://www.npmjs.com/package/gh-pages)
-
-[modern-normalize](https://github.com/sindresorhus/modern-normalize)
-
-[node-sass](https://www.npmjs.com/package/node-sass)
-
-[shortid](https://www.npmjs.com/package/shortid)
-
-[classnames](https://www.npmjs.com/package/classnames)
+[axios](https://www.npmjs.com/package/axios)<br>
+[react-loader-spinner](https://www.npmjs.com/package/react-loader-spinner)<br>
+[react-toastify](https://www.npmjs.com/package/react-toastify)<br>
+[react-scroll](https://www.npmjs.com/package/react-scroll)<br>
+[react-icons](https://react-icons.github.io/react-icons)<br>
+[prop-types](https://www.npmjs.com/package/prop-types)<br>
+[gh-pages](https://www.npmjs.com/package/gh-pages)<br>
+[modern-normalize](https://github.com/sindresorhus/modern-normalize)<br>
+[node-sass](https://www.npmjs.com/package/node-sass)<br>
+[shortid](https://www.npmjs.com/package/shortid)<br>
+[classnames](https://www.npmjs.com/package/classnames)<br>
 
 ---
